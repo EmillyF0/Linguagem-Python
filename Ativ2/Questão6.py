@@ -1,3 +1,5 @@
+#Relatório de desempenho de turma
+
 qtd_alunos = int(input("Informe a quantidade de alunos:\n"))
 soma_individual = 0
 soma_geral = 0

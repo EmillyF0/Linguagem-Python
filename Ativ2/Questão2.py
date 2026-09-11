@@ -1,3 +1,5 @@
+#Jogo de adivinhação com níveis
+
 tentativas_utilizadas = 0
 tentativas_restantes_lv1 = 10
 tentativas_restantes_lv2 = 7

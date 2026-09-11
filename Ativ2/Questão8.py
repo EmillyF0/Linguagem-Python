@@ -1,3 +1,5 @@
+#Série estatísticas sem listas
+
 qtd_numeros = int(input("Qual será a quantidade de numeros que serão inseridos?\n"))
 qtd_positivos = 0
 qtd_negativos = 0

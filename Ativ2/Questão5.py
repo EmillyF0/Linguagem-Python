@@ -1,4 +1,6 @@
 # Talvez haja problema de espaçamento por causa do "programa" que testo os códigos (houve atualização)
+# Sistema de votação
+
 candidato_a = 0
 candidato_b = 0
 candidato_c = 0

@@ -1,3 +1,5 @@
+#Controle de estoque por menu
+
 estoque_inicial = 100
 estoque_final = 100
 entradas_realizadas = 0

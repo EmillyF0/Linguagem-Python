@@ -1,3 +1,5 @@
+#Caixa eletrônica com saldo e tentativas
+
 tentativas_senhas = 0
 saldo = 2500
 qtd_operacoes = 0

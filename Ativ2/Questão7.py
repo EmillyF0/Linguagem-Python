@@ -1,3 +1,5 @@
+#Análise de vendas de vendedores
+
 qtd_vendedores = int(input("Qual será a quantidade de vendedores?\n"))
 total_vendido_equipe = 0
 soma_comissoes = 0
